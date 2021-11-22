@@ -1,0 +1,41 @@
+
+
+11/21/2021
+Review design patterns
+Practice Leetcode problems daily
+Choose a project
+Level up
+
+
+Books to read
+- The Object Oriented Thought Process
+- Hands-on Simulation Modeling with Python
+- Practical Statistics for Data Scientists
+- Data Science Projects with Python
+- Machine Learning with Python Cookbook
+- AI and Machine Learning for Coders
+- Hands-on Machine Learning with Scikit-Learn & TensorFlow
+
+UC Berkeley DS MS
+- Buy textbooks
+- Register for classes
+- Read Boeing’s LTP documentation
+- Accelerated or decelerated path
+
+Abstract
+- Consistency
+
+
+
+November
+                  21 22 23 24 25 26 27 28 29 30
+Read with Aiden   1
+Leetcode          1
+Read DS book      0
+Work on project   0
+Keto diet         0
+Stretch           0
+
+
+
+
