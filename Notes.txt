@@ -6,6 +6,15 @@ Practice Leetcode problems daily
 Choose a project
 Level up
 
+Leetcode Graphs
+- Disjoint Set
+- The DFS Algorithm in Graph
+- Algorithms to Construct Minimum Spanning Tree
+- Single Source Shortest Path Algo
+- Kahn's Algo for Topological Sorting
+
+
+
 
 Books to read
 - The Object Oriented Thought Process
@@ -17,10 +26,20 @@ Books to read
 - Hands-on Machine Learning with Scikit-Learn & TensorFlow
 
 UC Berkeley DS MS
+- Student Orientation 12/1/21 1:00 PM
+- Register for classes 12/13 11:00 AM
+- Tuition 1/14/22
+- Start Date 1/3/22
 - Buy textbooks
-- Register for classes
-- Read Boeing’s LTP documentation
-- Accelerated or decelerated path
+- Boeing Voucher
+- Download Office
+
+Review classes
+- Bridge: Intro to R
+- Preview Course
+- MIDS 1a Fund Linear Algebra
+- MIDS 1b Fund Data Structures
+
 
 Abstract
 - Consistency
@@ -29,12 +48,12 @@ Abstract
 
 November
                   21 22 23 24 25 26 27 28 29 30
-Read with Aiden   1
-Leetcode          1
-Read DS book      0
-Work on project   0
-Keto diet         0
-Stretch           0
+Read with Aiden   1   0  1  -  -  1  1  1  0
+Leetcode          1   1  1  -  -  1  1  1  1
+Leetcode lessons  0   0  0  -  -  0  1  1  1
+Work on project   0   0  0  -  -  0  0  0  0
+Keto diet         0   1  1  -  -  0  1  0  0
+Stretch           0   0  1  -  -  0  1  0
 
 
 
