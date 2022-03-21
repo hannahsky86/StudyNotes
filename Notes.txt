@@ -1,60 +1,40 @@
+3/20/22
+Time to get refocused. Have had zero motivation to do anything outside of work and family. 
+Started a new job with a pay raise that out weighs the pros of switching to data science 
+- so, decided against UC Berkeley.
+I think its time to focus on building a passive income with a blog and youtube channel. 
+I just need to stay focused and motivated. 
 
 
-11/21/2021
-Review design patterns
-Practice Leetcode problems daily
-Choose a project
-Level up
-
-Leetcode Graphs
-- Disjoint Set
-- The DFS Algorithm in Graph
-- Algorithms to Construct Minimum Spanning Tree
-- Single Source Shortest Path Algo
-- Kahn's Algo for Topological Sorting
+Goals 
+1. Finish building blog and portfolio 
+2. Start a Youtube channel 
+3. Decide on content 
+4. Research equipment 
 
 
+Possible Topics
+- Calculus I, II, III
+- Linear Algebra 
+- Differential Equations
+- Statics/Dynamics
+- Thermodynamics
+- Physics I, II
+- Statistics
+- Data Visualizations with Python/R
+- Data Science with R
+- Design Patterns 
 
-
-Books to read
-- The Object Oriented Thought Process
-- Hands-on Simulation Modeling with Python
-- Practical Statistics for Data Scientists
-- Data Science Projects with Python
-- Machine Learning with Python Cookbook
-- AI and Machine Learning for Coders
-- Hands-on Machine Learning with Scikit-Learn & TensorFlow
-
-UC Berkeley DS MS
-- Student Orientation 12/1/21 1:00 PM
-- Register for classes 12/13 11:00 AM
-- Tuition 1/14/22
-- Start Date 1/3/22
-- Buy textbooks
-- Boeing Voucher
-- Download Office
-
-Review classes
-- Bridge: Intro to R
-- Preview Course
-- MIDS 1a Fund Linear Algebra
-- MIDS 1b Fund Data Structures
-
+   
 
 Abstract
 - Consistency
+- Focus 
 
-
-
-November
-                  21 22 23 24 25 26 27 28 29 30
-Read with Aiden   1   0  1  -  -  1  1  1  0
-Leetcode          1   1  1  -  -  1  1  1  1
-Leetcode lessons  0   0  0  -  -  0  1  1  1
-Work on project   0   0  0  -  -  0  0  0  0
-Keto diet         0   1  1  -  -  0  1  0  0
-Stretch           0   0  1  -  -  0  1  0
-
-
-
+                      March                                   
+                      20 21 22 23 24 25 26 27 28 29 30 31 
+Read with A
+ + Protein 
+ - Sugar
+Work on Goals 2hrs
 
