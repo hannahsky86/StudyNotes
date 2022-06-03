@@ -1,40 +1,13 @@
-3/20/22
-Time to get refocused. Have had zero motivation to do anything outside of work and family. 
-Started a new job with a pay raise that out weighs the pros of switching to data science 
-- so, decided against UC Berkeley.
-I think its time to focus on building a passive income with a blog and youtube channel. 
-I just need to stay focused and motivated. 
 
 
 Goals 
-1. Finish building blog and portfolio 
-2. Start a Youtube channel 
-3. Decide on content 
-4. Research equipment 
+1. integrate gatsby with react site
+2. improve website and deploy 
+3. add resume and portfolio to blog 
+4. work through a few skill share videos
+5. buy light, microphone, and camera holder
+6. create first video
+7. finish Youtube Formula
 
 
-Possible Topics
-- Calculus I, II, III
-- Linear Algebra 
-- Differential Equations
-- Statics/Dynamics
-- Thermodynamics
-- Physics I, II
-- Statistics
-- Data Visualizations with Python/R
-- Data Science with R
-- Design Patterns 
-
-   
-
-Abstract
-- Consistency
-- Focus 
-
-                      March                                   
-                      20 21 22 23 24 25 26 27 28 29 30 31 
-Read with A
- + Protein 
- - Sugar
-Work on Goals 2hrs
 
